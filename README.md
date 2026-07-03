@@ -16,7 +16,7 @@ Using SQL, I explored player efficiency, team dominance, consistency across seas
 2. Which batsmen combined high run-scoring with elite strike rates?
 3. Which bowlers balanced wicket-taking with low economy rates?
 4. Which players remained consistent across multiple seasons?
-5. Which batsmen generated the most boundary impact?
+5. Which batsmen generated the most boundary impaact?
 6. Which teams built the strongest batting lineups?
 7. How significant was the toss advantage?
 8. Did chasing become a stronger strategy?
@@ -163,7 +163,8 @@ CSV Files
 * MySQL Workbench
 * SQL
 * Excel
-* PowerPoint / Canva
+* PowerPoint
+* canva
 
 ---
 
