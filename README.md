@@ -21,6 +21,7 @@ Using SQL, I explored player efficiency, team dominance, consistency across seas
 7. How significant was the toss advantage?
 8. Did chasing become a stronger strategy?
 9. Which players consistently delivered match-winning performances?
+10. which batsman scored most runs in a single season
 
 ---
 
